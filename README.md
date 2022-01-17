@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Tic Tac Toe game works.
 
+- ([Youtube Demo](https://youtu.be/uv9m0cjglIY))
+
 # 1.3 The Rules of Tic Tac Toe
 
 Tic Tac Toe is a simple game that has the following rules.
